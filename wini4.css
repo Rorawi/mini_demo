@@ -1,0 +1,88 @@
+.me{
+    padding: 5px;
+    /* margin: 20px; */
+    border: 0px solid black;
+    background-image: url(images/brenda-godinez-MsTOg6rhRVk-unsplash.jpg);
+    display: flex;
+    color: white;
+    height: 90vh;
+    text-align: center;
+    align-items: center; 
+    background-size: cover;
+    padding-left: 35%;
+    flex-direction: column;
+    padding-top: 200px;
+}
+
+button{
+    background-color: transparent;
+    border-color: hotpink;
+    height: 15vh;
+    width: 15%;
+    border-radius: 15px;
+}
+
+button:hover{
+       background-color: hotpink;
+       color: white;
+}
+
+span{
+    color: hotpink;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.col-md-4{
+    background-color: hotpink;
+    width: 30%;
+    height: 20vh;
+}
+
+.you{
+    
+    background-color: gray;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+.roll{
+    padding-top: 50px;
+}
+
+
+.you1{
+    
+    background-color: whitesmoke;
+    height: 10vh;
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
